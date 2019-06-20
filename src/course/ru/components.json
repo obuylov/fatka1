@@ -1,0 +1,2132 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Начало",
+    "displayTitle": "",
+    "body": "<p><strong>FATCA (Foreign Account Tax Compliance Act)</strong> – Законодательство США о налогообложении иностранных счетов, нацеленное на сбор информации о налогоплательщиках США по всему миру.<br /><br />Россия и США не заключили Межправительственное соглашение, регулирующее трансграничное предоставление отчетности. Таким образом, финансовые институты России, в том числе Банки –зарегистрировались на портале Налоговой службы США (IRS) и напрямую предоставляют отчетность в американское ведомство.<br /><br />ПАО Сбербанк прошел процедуру регистрации на портале IRS и получил индивидуальный идентификационный номер (GIIN): <strong>JPCJ0H.00028.ME.643</strong><br /><br />Согласно требованиям FATCA Банк обязан:</p><p><!-- t508 --></p><ul><li>проводить идентификацию новых и <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#sk\">существующих клиентов</a> в целях определения их FATCA статуса;</li><li>осуществлять ежегодный мониторинг актуальности FATCA статусов клиентов;</li><li>ежегодно осуществлять подготовку и направление отчетности в IRS по выявленным налогоплательщикам США и клиентам, отказавшимся предоставить информацию о своем налоговом резидентстве (предварительно отчетность в полном объеме направляется в ФНС России);</li><li>проходить Сертификацию перед IRS в отношении завершения требований FATCA.</li></ul>",
+    "_id": "5cffbce036bab0456e80bd76",
+    "_parentId": "5cffbce036bab0456e80bd34",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Документы",
+    "displayTitle": "",
+    "body": "<p><strong>Стандарт по автоматическому обмену информацией</strong> (Common Reporting Standard, CRS), разработанный ОЭСР (Организацией экономического сотрудничества и развития) – это международный аналог <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> в целях предотвращения глобального уклонения от уплаты налогов с использованием офшорных юрисдикций и обеспечения прозрачности информации.<br /><br />12 мая 2016 года ФНС России от имени Российской Федерации подписала многостороннее <a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/finans/russia_mcaa.pdf\" target=\"_blank\">Соглашение компетентных органов об автоматическом обмене финансовой информацией</a> и подтвердила намерение начать в 2018 году обмен информацией за 2017 год.<br /><br />Налоговый кодекс Российской Федерации дополнен положениями (<a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/documents/340fz.docx\" target=\"_blank\">Федеральный закон от 27.11.2017 № 340-ФЗ</a>), согласно которым российские организации финансового рынка (далее –&nbsp;<a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a>) обязаны идентифицировать клиентов, являющихся налоговыми резидентами иностранных государств (территорий), и представлять данные о таких клиентах и их счетах в ФНС России, а клиенты, в свою очередь, обязаны предоставлять данную информацию по запросу финансовой организации.</p>",
+    "_id": "5cffbce036bab0456e80bd79",
+    "_parentId": "5cffbce036bab0456e80bd35",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd91",
+    "_parentId": "5cffbce036bab0456e80bd4c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd92",
+    "_parentId": "5cffbce036bab0456e80bd4d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd94",
+    "_parentId": "5cffbce036bab0456e80bd4f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd95",
+    "_parentId": "5cffbce036bab0456e80bd50",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd96",
+    "_parentId": "5cffbce036bab0456e80bd51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd97",
+    "_parentId": "5cffbce036bab0456e80bd52",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Меры воздействия",
+    "displayTitle": "",
+    "body": "<p><strong>Ненадлежащее внедрение или несоблюдение требований</strong> <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> может повлечь применение к Банку следующих мер воздействия:</p><p><!-- t508 --></p><p>1. Лишение Банка \"положительного\" FATCA-статуса, включая:</p><ul><li>отказ контрагентов, участвующих в реализации <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>, а также клиентов от дальнейшего сотрудничества с Банком;</li><li>финансовые потери в размере 30% от доходов, полученных Банком из источников в США;</li><li>репутационные риски.</li></ul><p>2. Дополнительные проверки и запросы со стороны IRS или национальных уполномоченных органов (в том числе, ФНС России) по вопросам <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>.</p><p>3. Наложение административного штрафа в размере <strong>от трехсот тысяч до пятисот тысяч рублей</strong> за ненаправление Банком в уполномоченные органы или направление с нарушением установленных порядка и сроков информации о лицах, на которое распространяется <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>.</p>",
+    "_id": "5cffbe2b36bab0456e80bdf2",
+    "_parentId": "5cffbe1936bab0456e80bdf1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Термины",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbec036bab0456e80bdf4",
+    "_parentId": "5cffbeb136bab0456e80bdf3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "FATCA-статус",
+        "body": "<p>Cтатус, присваиваемый Банком <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#k\">клиенту</a> (в Бэк-системах) в соответствии с предоставленной им информацией о его налоговом резидентстве согласно требованиям FATCA .</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Идентификация по FATCA",
+        "body": "<p>Cовокупность мероприятий, направленных на определение принадлежности клиентов, их выгодоприобретателей, бенефициарных и иных владельцев к налогоплательщикам США, а также подтверждение актуальности ранее предоставленной информации в целях присвоения корректного FATCA-статуса.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Налоговая служба США (IRS) ",
+        "body": "<p>Государственный орган Федерального правительства США, который занимается сбором налогов и контролирует соблюдение законодательства в области налогообложения. В Российской Федерации данную функцию осуществляет ФНС России.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Свидетельство об утратегражданства США – Форма DS 4083",
+        "body": "<p>Согласно установленной Бюро консульских дел Департамента США процедуре, лицо, намеревающееся отказаться от гражданства США добровольно, должно подать соответствующее заявление на отказ от гражданства США в Департамент США. По результатам рассмотрения заявления Департамент США выдает сертификат/свидетельство по форме DS-4083, подтверждающий факт утраты гражданства США.<br /><br />По общей административной процедуре добровольное лишение гражданства США, полученного по рождению, подтверждается официальной формой DS-4083.<br /><br />Форма DS-4083 запрашивается у Клиента Банка в случае места его рождения в США, но отсутствия указания на налоговое резидентство или гражданство в США.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Формы Налоговой службы США (IRS) ",
+        "body": "<p>На сайте IRS опубликованы формы, которые используются для идентификации статуса налогоплательщика.<br /><br /><strong>Форма W-9:</strong> используется для подтверждения статуса налогоплательщика США. Может предоставляться как физическими лицами/индивидуальными предпринимателями, так и юридическими лицами. Представлена на сайте IRS: <a href=\"https://www.irs.gov/pub/irs-pdf/fw9.pdf\" target=\"_blank\">https://www.irs.gov/pub/irs-pdf/fw9.pdf</a> (инструкция по заполнению <a href=\"https://www.irs.gov/pub/irs-pdf/iw9.pdf\" target=\"_blank\">https://www.irs.gov/pub/irs-pdf/iw9.pdf</a>)<br /><br /><strong>Форма W-8BEN-E:</strong> может предоставляться юридическими лицами как альтернатива установленным в Банке формам по FATCA. Также принимается в дополнение к установленным в Банке формам для подтверждения FATCA статуса юридического лица. Представлена на сайте IRS: <a href=\"https://www.irs.gov/pub/irs-pdf/fw8bene.pdf\" target=\"_blank\">https://www.irs.gov/pub/irs-pdf/fw8bene.pdf</a> (инструкция по заполнению <a href=\"https://www.irs.gov/pub/irs-pdf/iw8bene.pdf\" target=\"_blank\">https://www.irs.gov/pub/irs-pdf/iw8bene.pdf</a>)<br /><br /><strong>Форма W-8BEN:</strong> предоставляется физическими лицами/ индивидуальными предпринимателями для подтверждения статуса НЕ налогоплательщика США. Банк принимает данную форму только при открытии счетов Депо и брокерских счетов с целью избежания удержания FATCA налога в размере 30%. Представлена на сайте IRS: <a href=\"https://www.irs.gov/pub/irs-pdf/fw8ben.pdf\" target=\"_blank\">https://www.irs.gov/pub/irs-pdf/fw8ben.pdf</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Существенный собственник (согласно требованиям FATCA), являющийся налогоплательщиком США ",
+        "body": "<p>Существенным собственником с точки зрения FATCA может являться как физическое, так и юридическое лицо.<br /><br />Применительно к юридическому лицу – любой Налогоплательщик США, который прямо или косвенно владеет более 10% акций данного юридического лица (по праву голоса или по стоимости).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Признаки принадлежности кналогоплательщикам США ",
+    "displayTitle": "",
+    "body": "<p><strong>Признаки принадлежности к налогоплательщикам США</strong> – признаки, выявление которых свидетельствует о возможной принадлежности клиента к налогоплательщикам США в соответствии с требованиями <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>.<br /><br /><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> предусматривает следующие признаки принадлежности к налогоплательщикам США для физических и юридических лиц.</p>",
+    "_id": "5cffbf6136bab0456e80bdf6",
+    "_parentId": "5cffbf5136bab0456e80bdf5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Признаки налогоплательщиков США – физических лиц",
+        "body": "<ul><li>гражданство США или налоговое резидентство США;</li><li>место рождения в США;</li><li>существующий на данный момент почтовый адрес или адрес фактического проживания в США, а также указанный в качестве адреса доставки почтовый ящик в США или адрес доверенного лица в США;</li><li>существующий на данный момент телефонный номер клиента в США, в случае если такой номер является единственным телефонным номером, который есть у владельца счета;</li><li>платежное поручение о переводе более одного платежа на счет, находящийся в США;</li><li>действительная в настоящее время доверенность или право подписи, предоставленные лицу, адрес которого находится в США;</li><li>адрес доверенного лица или адрес хранения почты до востребования в США, при условии, что это единственные контактные данные, указанные досье владельца счета.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Признаки налогоплательщиковСША – юридических лиц",
+        "body": "<ul><li>страна налогового резидентства или страна инкорпорации юридического лица – США;</li><li>фактический адрес или почтовый адрес юридического лица в США;</li><li>телефонный номер юридического лица в США;</li><li>наличие платежных поручений на перевод средств на другой счет в США;</li><li>наличие адреса до востребования только в США;</li><li>наличие доверенности в отношении права управления счетом или права подписи лицу, которое проживает США (указан адрес в США).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Санкции",
+    "displayTitle": "",
+    "body": "<p>Процедуры идентификации, а также порядок и форматы представления данных организациями финансового рынка устанавливаются <a href=\"https://340fzreport.nalog.ru/html/sites/www.340fzreport.nalog.ru/doc/16062018_693_CRS.pdf\" target=\"_blank\">постановлением Правительством Российской Федерации, от 16.06.2018 № 693</a> «О реализации международного автоматического обмена финансовой информацией с компетентными органами иностранных государств (территорий)».</p><p><!-- T004 --></p><p>В результате <strong>ненадлежащего внедрения или несоблюдения требований</strong> <strong>CRS </strong>законом 340-ФЗ от 27.11.2017 предусмотрены <strong>штрафные санкции</strong>:</p><p><!-- t508 --></p><ul><li><strong>Нарушение</strong> <strong><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a> </strong><strong>порядка установления налогового</strong> <strong>резидентства</strong> <strong>клиентов</strong>, выгодоприобретателей и лиц, прямо или косвенно их контролирующих, влечет взыскание штрафа <strong>в размере 50 000 рублей</strong> за непринятие мер <strong>в отношении каждого клиента</strong>, выгодоприобретателя либо лица, прямо или косвенно их контролирующего.</li><li><strong>Ненаправление</strong> <strong>в установленный срок</strong> <strong><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a></strong> информации о клиентах–иностранных налогоплательщиках в ФНС России влечет взыскание штрафа в размере 500 000 рублей.</li><li>Невключение в отчетность <strong><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a></strong> информации о клиенте–иностранном налогоплательщике, выгодоприобретателе и (или) лицах, прямо или косвенно их контролирующих влечет взыскание штрафа <strong>в размере 50 000 рублей за каждый факт такого нарушения</strong>.</li></ul>",
+    "_id": "5cffc08836bab0456e80bdf8",
+    "_parentId": "5cffc06636bab0456e80bdf7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Термины",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffc10a36bab0456e80bdfb",
+    "_parentId": "5cffc10736bab0456e80bdfa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Налоговый резидент",
+        "body": "<p>Статус налогового резидентства определяется для каждой страны в соответствии с применимым законодательством. Например, в соответствии с российским налоговым законодательством, налоговыми резидентами признаются физические лица, фактически находящиеся в Российской Федерации не менее 183 календарных дней в течение 12 следующих подряд месяцев.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "CRS-статус",
+        "body": "<p>Cтатус, присваиваемый Банком <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#k\">клиенту</a> (в Бэк-системах) в соответствии с предоставленной им информацией о его налоговом резидентстве согласно требованиям <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#CRS\">CRS</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Идентификация по CRS ",
+        "body": "<p>Cовокупность мероприятий, направленных на определение принадлежности клиентов, их выгодоприобретателей, бенефициарных и иных владельцев к иностранным налогоплательщикам ( все страны, кроме РФ), а также подтверждение актуальности ранее предоставленной информации в целях присвоения корректного CRS-статуса.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Документы",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffc1c336bab0456e80bdfc",
+    "_parentId": "5cffbce036bab0456e80bd6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Международные нормативно-правовые документы",
+        "body": "<ul><li>Законодательство США о налогообложении иностранных счетов (Foreign Account Tax Compliance Act, FATCA);</li><li>Стандарт по автоматическому обмену финансовой информацией (Common reporting standart, далее – CRS), разработанный ОЭСР (Организация экономического сотрудничества и развития).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Национальные нормативно-правовые документы",
+        "body": "<p><strong>FATCA</strong><strong>:</strong></p><ul><li><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/external_files/173.pdf\" target=\"_blank\">Федеральный закон от 28.06.2014 № 173-ФЗ «Об особенностях осуществления финансовых операций с иностранными гражданами и юридическими лицами, о внесении изменений в Кодекс Российской Федерации об административных правонарушениях и признании утратившими силу отдельных положений законодательных актов Российской Федерации»</a>.</li></ul><p><br /><strong>CRS:</strong></p><ul><li><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/external_files/340.pdf\" target=\"_blank\">Федеральный закон от 27.11.2017 № 340-ФЗ «О внесении изменений в часть первую Налогового кодекса Российской Федерации в связи с реализацией международного автоматического обмена информацией и документацией по международным группам компаний»</a>;</li><li><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/external_files/693.pdf\" target=\"_blank\">Постановление Правительства РФ № 693 от 16.06.2018г. «О реализации международного автоматического обмена финансовой информацией с компетентными органами иностранных государств (территорий)»</a>;</li><li><a href=\"https://340fzreport.nalog.ru/html/sites/www.340fzreport.nalog.ru/doc/prikaz_mmv717360.pdf\" target=\"_blank\">Приказ ФНС России от 30.05.18 №ММВ-7-17/360 «Об утверждении Перечня государств (территорий), с которыми осуществляется автоматический обмен финансовой информацией»</a>.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Внутренние нормативные документы (ВНД) Банка",
+        "body": "<ul><li>Политика ПАО Сбербанк по реализации законодательства США о налогообложении иностранных счетов (Foreign Account Tax Compliance Act, FATCA) от 21.02.2017 №4538;</li><li>Сборник Стандартов ПАО Сбербанк в рамках реализации требований FATCA и CRS от 27.03.2018г. № 4754;</li><li>Распоряжение «О порядке работы с клиентами в целях определения налогового резидентства» № 127-Р от 30.01.2018;</li><li>Распоряжение от 28.12.2016 № 1777-Р «О порядке работы с клиентами согласно требованиям единого стандарта Организации экономического сотрудничества и развития по обмену налоговой информацией в автоматическом режиме» (Standard for Automatic Exchange of Financial Account Information или Common Reporting Standard, CRS);</li><li>Правила внутреннего контроля в целях противодействия легализации (отмыванию) доходов, полученных преступным путем, финансированию терроризма №881 (в действующей редакции).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": " Дополнительные документы     ",
+        "body": "<ul><li><strong>Свидетельство об утрате гражданства США</strong> по форме DS 4083 Бюро консульских дел Государственного департамента США;</li><li><strong>Письменные объяснения в отношении отсутствия гражданства в США</strong> (например, указание причины, по которой не было получено гражданство США по рождению).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Документы",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffc3ba36bab0456e80bdfd",
+    "_parentId": "5cffbce036bab0456e80bd3f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Формы Банка",
+        "body": "<p><strong>Анкета FATCA/CRS физического лица для клиентов (в рамках депозитарного обслуживания)</strong><br />Форма, утвержденная Банком, для сбора сведений о налогового резидентстве клиентов - физических лиц, открывающих счета ДЕПО в Банке. Заполняется вне зависимости от налоговой юрисдикции клиента, в том числе российскими налогоплательщиками с целью подтверждения их налогового резидентства только в РФ и отсутствия необходимости включения таких клиентов в отчетность. Используется также для сбора сведений о налогового резидентстве клиентов - индивидуальных предпринимателей, открывающих счета ДЕПО.<br /><br /><strong>Анкета юридического лица для клиентов <strong>(в рамках депозитарного обслуживания)</strong></strong><br />Форма, утвержденная Банком, для сбора идентификационных сведений, в том числе сведений по FATCA и CRS, с клиентов - юридических лиц, открывающих счета ДЕПО в Банке.<br /><br /><strong>Анкета физического лица для клиентов, заинтересованных в заключении брокерского договора</strong><br />Форма, утвержденная Банком, для сбора идентификационных сведений, в том числе сведений по FATCA и CRS, c физических лиц, используемая при заключении договоров с целью предоставления брокерских услуг.<br /><br /><strong>Анкета юридического лица для клиентов, заинтересованных в заключении брокерского договора</strong><br />Форма, утвержденная Банком, для сбора идентификационных сведений, в том числе сведений по FATCA и CRS, с клиентов - юридических лиц, заинтересованных в заключении брокерского договора.<br /><br />В дополнение к вышеуказанным анкетам может быть предоставлена форма W-8 или W-9 (в зависимости от типа клиента или его FATCA статуса)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Формы Налоговой службы США ",
+        "body": "<p><a href=\"https://www.irs.gov/\" target=\"_blank\"><strong>Форма W-9</strong></a><br /><br />Форма Налоговой службы США используется для подтверждения статуса налогоплательщика США (не подтверждает принадлежность клиента к юрисдикциям других стран, кроме США). Представлена на сайте Налоговой службы США (IRS) <a href=\"https://www.irs.gov/pub/irs-pdf/fw9.pdf\" target=\"_blank\">www.irs.gov/pub/irs-pdf/fw9.pdf</a> (инструкция по заполнению <a href=\"https://www.irs.gov/pub/irs-pdf/iw9.pdf\" target=\"_blank\">www.irs.gov/pub/irs-pdf/iw9.pdf</a>).<br /><br />Предоставляется в Банк если клиент указал, что:</p><ul><li>родился в США;</li><li>имеет гражданство или вид на жительство в США;</li><li>является налогоплательщиком США.</li></ul><p><br />Клиент заполняет форму вручную (допускается предоставление сканированной версии с подписью). В системах Банка сотрудник обязательно проставляет чек-бокс о предоставлении формы W-9 в Банк и, при наличии функционала системы, вносит все реквизиты формы W-9 (имя/адрес (с построчной разбивкой/идентификационный номер (TIN)) на латинице.<br /><br /><strong><a href=\"https://www.irs.gov/\" target=\"_blank\">Форма W-8BEN</a></strong><br /><br />Форма Налоговой службы США, которая подтверждает статус физического лица как налогоплательщика другой страны (не США), а также как бенефициарного собственника получаемых доходов. Представлена на сайте Налоговой службы США (IRS) <a href=\"https://www.irs.gov/pub/irs-pdf/fw8ben.pdf\" target=\"_blank\">www.irs.gov/pub/irs-pdf/fw8ben.pdf</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Дополнительные документы ",
+        "body": "<ul><li><strong>Свидетельство об утрате гражданства США </strong>по форме DS 4083 Бюро консульских дел Государственного департамента США;</li><li><strong>Письменные объяснения в отношении отсутствия гражданства в США</strong> (например, указание причины, по которой не было получено гражданство США по рождению).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Особенности идентификации ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffc47936bab0456e80bdfe",
+    "_parentId": "5cffbce036bab0456e80bd47",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Принятие клиента на обслуживание",
+        "body": "<ul><li>В рамках процесса идентификации клиентов, открывающих новые счета/счета депо/заключающих новые договора о предоставлении брокерских услуг, а также в рамках процесса обновления информации/сведений по клиентам, находящихся на обслуживании, Банк проводит сбор сведений о налоговом резидентстве клиентов путем анкетирования по установленным в Банке формам и/или получения от клиентов заполненных стандартных форм Налоговой службы США (например, <a href=\"https://www.irs.gov/pub/irs-pdf/fw8ben.pdf\" target=\"_blank\">W-8BEN-E</a>, <a href=\"https://www.irs.gov/pub/irs-pdf/fw8ben.pdf\" target=\"_blank\">W-8BEN</a>, <a href=\"https://www.irs.gov/pub/irs-pdf/fw9.pdf\" target=\"_blank\">W9</a>).</li><li>Ввод информации по FATCA/CRS осуществляется во фронтальных системах Банка сотрудниками Депозитария/ДГР.</li><li>Сотрудник Банка не вправе консультировать по вопросам заполнения сведений о налоговом резидентстве (FATCA/CRS). В случае возникновения вопросов относительно FATCA/CRS, клиенту необходимо рекомендовать обратиться к своему налоговому консультанту.</li><li>Идентификация по FATCA/CRS осуществляется до заключения депозитарного договора или договора брокерского обслуживания/до приема на обслуживание в Банк.</li><li>В рамках обновления анкетных данных клиенты Депозитария и ДГР актуализируют, в том числе, сведения по FATCA/CRS.</li><li>В дополнение к Анкете при наличии признаков налогоплательщика США для клиентов-физических лиц необходимо дополнительно предоставить в Банк форму Налоговой службы США <a href=\"https://www.irs.gov/pub/irs-pdf/fw9.pdf\" target=\"_blank\">W-9</a> или свидетельство об отказе от гражданства в США по форме DS4083.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "В случае отказа клиентовпредоставить информацию о налоговом резидентстве ",
+        "body": "<ul><li>В случае отказа клиентов-физических лиц/юридических лиц/индивидуальных предпринимателей по операциям на финансовых рынках заполнить Анкету либо предоставить требуемую информацию и/или документы для его идентификации в целях FATCA и CRS Банк отказывает клиенту в заключении соответствующего договора путем передачи ему Уведомления по установленной Банком форме.</li><li>На втором экземпляре Уведомления клиент ставит отметку о получении и ознакомлении с Уведомлением.</li><li>В случае отказа клиента проставить отметку работник Депозитария/ДГР на втором экземпляре Уведомления фиксирует факт отказа Клиента.</li><li>Уведомления (с отметкой клиента или работника Депозитария/ДГР) подлежат обособленному хранению по месту обращения клиента – для клиентов Депозитария, или хранению в соответствующем СЦ Архив – для Клиентов ДГР.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Действия работникаДепозитария/ДГР при получении полного комплекта документов",
+        "body": "<ul><li>При получении всех требуемых документов для идентификации налогового резидентства Клиента работник Депозитария/ДГР проверяет полноту предоставленных данных и корректность заполнения анкет FATCA/CRS (поля должны быть заполнены в соответствии с правилами заполнения).</li><li>Заполненные сведения Клиент подтверждает своей подписью (Депозитарий/ДГР) или вводом ПИН-кода банковской карты или смс (ДГР).</li><li>В случае предоставления Клиентом в Банк формы W9, работник Депозитария/ ДГР принимает бумажную версию, подписанную Клиентом только вручную, также допускается принятие сканированной версии.</li><li>Свидетельства об отказе от гражданства в США дополнительного заверения со стороны клиента/сотрудника Банка не требует (принимается копия документа).</li><li>Работник Депозитария/ ДГР принимает пакет документов Клиента, предоставленный в рамках заключения Договора, помещает его в досье клиента, который подлежит хранению в установленном в Банке порядке (для Депозитария)/ сканируется, скан-образы подгружаются в АС, упаковываются и передаются в СЦ «Архив», в котором подлежит хранению в установленном в Банке порядке(для ДГР).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Мониторинг сведений клиентов",
+    "displayTitle": "",
+    "body": "<ul><li>В целях реализации требований законодательства РФ и исполнения требований <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> и <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#CRS\">CRS</a> Банк осуществляет регулярный мониторинг сведений клиентов.</li><li>Взаимодействие с клиентами может осуществляться путем направления централизованной рассылки посредством СБОЛ/СББОЛ/Почты России силами Управления комплаенс (УК) или обращения к КМ путем выставления запроса на отработку через активность в АС CRM.</li><li>В рамках запроса УК работник Депозитария/ДГР направляет клиенту информацию о необходимости предоставить в Банк обновленные сведения по FATCA/CRS любым предусмотренным для Клиента способом и/или информирует УК о наличии признаков налогоплательщика США у клиента (в случае наличия таковых) или об о их отсутствии (анализируется досье клиента на бумажных носителях и скан-копиях документов, а также информация, которая известна сотруднику Депозитария/ДГР).</li><li>На основании полученной информации сотрудник <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#UK\">УК</a> присваивает финальные <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> статусы клиентам в AC FCCM.</li></ul>",
+    "_id": "5cffc51a36bab0456e80bdff",
+    "_parentId": "5cffbce036bab0456e80bd48",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p><strong>1. Какими законами РФ регламентировано требование проведения идентификации налогового резидентства клиентов в Банке?</strong></p>",
+    "_id": "5d00098a36bab0456e80be03",
+    "_parentId": "5d0008f536bab0456e80be02",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Федеральный закон от 27.11.2017 № 340-ФЗ «О внесении изменений в часть первую Налогового кодекса Российской Федерации в связи с реализацией международного автоматического обмена информацией и документацией по международным группам компаний»",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Федеральный закон от 28.06.2014 № 173-ФЗ «Об особенностях осуществления финансовых операций с иностранными гражданами и юридическими лицами, о внесении изменений в Кодекс Российской Федерации об административных правонарушениях и признании утратившими силу отдельных положений законодательных актов Российской Федерации»",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Федеральный закон от 07.08.2001 №115-ФЗ «О противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма»",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "все ответы верны",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2",
+    "displayTitle": "",
+    "body": "<p><strong>2. FATCA – это?</strong></p>",
+    "_id": "5d0009f036bab0456e80be05",
+    "_parentId": "5d0009e236bab0456e80be04",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "FATCA (Foreign Account Tax Compliance Act) - Законодательство США, нацеленное на сбор информации о налогоплательщиках США по всему миру",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "FATCA - Федеральный закон, разработанный в целях выявления всех иностранных налогоплательщиков",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Правила Банка по идентификации клиентов",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "3",
+    "displayTitle": "",
+    "body": "<p><strong>3. CRS – это?</strong></p>",
+    "_id": "5d000a7236bab0456e80be07",
+    "_parentId": "5d000a3936bab0456e80be06",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Стандарт по автоматическому обмену информацией (Common Reporting Standard, CRS), разработанный ОЭСР (Организацией экономического сотрудничества и развития)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Статус клиента в Банка, который присваивается только иностранным налогоплательщикам",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Законодательство США, нацеленное на сбор информации о налогоплательщиках США по всему миру",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "4",
+    "displayTitle": "",
+    "body": "<p><strong>4. Каковы последствия ненадлежащего соблюдения закона FATCA и CRS для Банка?</strong></p>",
+    "_id": "5d000ac636bab0456e80be09",
+    "_parentId": "5d000ab636bab0456e80be08",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Штрафные санкции в случае не направления в установленный срок Банком отчетности в уполномоченные органы",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Штрафные санкции за нарушение порядка установления налогового резидентства клиентов (50 тыс. рублей за каждый факт такого нарушения)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Репутационные риски, связанные с риском потери FATCA-статуса Иностранного финансового института, участвующего в применении FATCA",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Все выше перечисленные",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "5",
+    "displayTitle": "",
+    "body": "<p><strong>5. По каким вопросам в рамках заполнения сведений о налоговом резидентстве сотрудник Банка может консультировать Клиента?</strong></p>",
+    "_id": "5d000b1b36bab0456e80be0b",
+    "_parentId": "5d000b0a36bab0456e80be0a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "По всем вопросам в рамках заполнения сведений по FATCA и СRS",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Только по вопросам FATCA",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Только по вопросам CRS",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сотрудник Банка может консультировать только клиентов-нерезидентов при заполнении формы W-9, W-8",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сотрудник Банка не вправе консультировать по вопросам заполнения сведений FATCA/CRS и налоговых форм США",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "6",
+    "displayTitle": "",
+    "body": "<p><strong>6. В какой момент оформления договора/открытия счета должны быть предоставлены сведения о налоговом резидентстве Клиента?</strong></p>",
+    "_id": "5d000ba136bab0456e80be0d",
+    "_parentId": "5d000b7536bab0456e80be0c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": " Все сведения о налоговом резидентстве должны быть предоставлены клиентом до открытия счета/оформления договора",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " Сведения о налоговом резидентстве могут быть предоставлены после открытия счета/оформления договора",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сведения о налоговом резидентсе могут быть предоставлены в любой момент открытия счета/оформления договора",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "7",
+    "displayTitle": "",
+    "body": "<p><strong>7. Каковы должны быть действия сотрудников Банка, если клиент отказался предоставить сведения о налоговом резидентстве (FATCA/CRS)?</strong></p>",
+    "_id": "5d000be736bab0456e80be0f",
+    "_parentId": "5d000bd536bab0456e80be0e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Сотрудник Банка продолжает открытие счета/ оформление договора без предоставления недостающих сведений/документов",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сотрудник Банка оформляет Уведомление об отказе в открытии счета/договора по установленной Банком форме",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Сотрудник Банка разрешает клиенту предоставить сведения о налоговом резидентстве в течение 7 рабочих дней после открытия счета/заключения договора",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "8",
+    "displayTitle": "",
+    "body": "<p><strong>8. Какова процедура отказа в открытии счета в случае непредставления клиентом сведений о налоговом резидентстве при заключении депозитарного/ депозитарно-брокерского договоров?</strong></p>",
+    "_id": "5d000c3436bab0456e80be11",
+    "_parentId": "5d000c1f36bab0456e80be10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Работник Депозитария/ДГР озвучивает Клиенту решение Банка устно",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Работник Депозитария/ДГР отказывает клиенту в заключении соответствующего договора путем передачи ему Уведомления по установленной Банком форме",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Работник Депозитария/ДГР направляет уведомление по установленной Банком форме по Почте России",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00111136bab0456e80be15",
+    "_parentId": "5d00110336bab0456e80be14",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
+      "small": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d0011be36bab0456e80be1a",
+    "_parentId": "5d0011b236bab0456e80be19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
+      "small": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00120c36bab0456e80be1e",
+    "_parentId": "5d0011ff36bab0456e80be1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
+      "small": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00177f36bab0456e80be23",
+    "_parentId": "5d00177036bab0456e80be22",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
+      "small": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Обмен информацией",
+    "displayTitle": "Обмен информацией",
+    "body": "",
+    "_id": "5d0017d436bab0456e80be28",
+    "_parentId": "5d0017c836bab0456e80be27",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
+      "small": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00184a36bab0456e80be2d",
+    "_parentId": "5d00183f36bab0456e80be2c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
+      "small": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00188f36bab0456e80be32",
+    "_parentId": "5d00188436bab0456e80be31",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
+      "small": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d0018f336bab0456e80be37",
+    "_parentId": "5d0018e836bab0456e80be36",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
+      "small": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00196236bab0456e80be3d",
+    "_parentId": "5d00193736bab0456e80be3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
+      "small": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
+      "attribution": ""
+    }
+  }
+]

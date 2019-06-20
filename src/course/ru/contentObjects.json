@@ -1,0 +1,264 @@
+[
+  {
+    "title": "Ключевые определения и требования по FATCA",
+    "displayTitle": "Ключевые определения и требования по FATCA",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "2 минуты",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd1c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Ключевые определения и требования по CRS",
+    "displayTitle": "Ключевые определения и требования по CRS",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "2 минуты",
+    "_lockedBy": [
+      "5cee3439a123007ffe192a60"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd1d",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/332035996bbe2f2b52ff0567df1269f91da54a7e.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Нормативные документы в области FATCA и CRS",
+    "displayTitle": "Нормативные документы в области FATCA и CRS",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "3 минуты",
+    "_lockedBy": [
+      "5cee3519a123007ffe192a64"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd1e",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/ae7d5dc0433799c65bee7fded33b6ca563ea3f55.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Документы, необходимые для идентификации налогового резидентства клиента",
+    "displayTitle": "Документы, необходимые для идентификации налогового резидентства клиента",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "3 минуты",
+    "_lockedBy": [
+      "5cee354da123007ffe192a6a"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd1f",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/fc3ae26327fa70a769c457e5139e81c2a2594f46.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Особенности идентификации клиентов Депозитария и ДГР",
+    "displayTitle": "Особенности идентификации клиентов Депозитария и ДГР",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "4 минуты",
+    "_lockedBy": [
+      "5cee3562a123007ffe192a6d"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd20",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/07d64529ab6ad484b7760c9cc5fe33ab54501c14.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Мониторинг сведений клиентов",
+    "displayTitle": "Мониторинг сведений клиентов",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Просмотр",
+    "duration": "2 минуты",
+    "_lockedBy": [
+      "5cee3584a123007ffe192a70"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd21",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/9787d2f128548efb11cd0bce66b71b3ecbfb3507.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Тестирование",
+    "displayTitle": "Тестирование",
+    "body": "",
+    "_classes": "",
+    "pageBody": "<p>Вам необходимо пройти тестирование, состоящее из 8-ти вопросов по изученной теме.<br /><br />Результаты тестирования учитываются при подведении итогового результата проверки знаний по курсу.<br /><br /><strong>Проходной балл – 80%.</strong> Будьте внимательны: вопросы могут иметь несколько правильных ответов.</p>",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0008f536bab0456e80be00",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  }
+]
