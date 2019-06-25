@@ -1,5 +1,35 @@
 [
   {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d0011be36bab0456e80be1a",
+    "_parentId": "5d0011b236bab0456e80be19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
+      "small": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -24,17 +54,17 @@
     "instruction": ""
   },
   {
-    "_component": "text",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Документы",
+    "title": "Картинка",
     "displayTitle": "",
-    "body": "<p><strong>Стандарт по автоматическому обмену информацией</strong> (Common Reporting Standard, CRS), разработанный ОЭСР (Организацией экономического сотрудничества и развития) – это международный аналог <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> в целях предотвращения глобального уклонения от уплаты налогов с использованием офшорных юрисдикций и обеспечения прозрачности информации.<br /><br />12 мая 2016 года ФНС России от имени Российской Федерации подписала многостороннее <a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/finans/russia_mcaa.pdf\" target=\"_blank\">Соглашение компетентных органов об автоматическом обмене финансовой информацией</a> и подтвердила намерение начать в 2018 году обмен информацией за 2017 год.<br /><br />Налоговый кодекс Российской Федерации дополнен положениями (<a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/documents/340fz.docx\" target=\"_blank\">Федеральный закон от 27.11.2017 № 340-ФЗ</a>), согласно которым российские организации финансового рынка (далее –&nbsp;<a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a>) обязаны идентифицировать клиентов, являющихся налоговыми резидентами иностранных государств (территорий), и представлять данные о таких клиентах и их счетах в ФНС России, а клиенты, в свою очередь, обязаны предоставлять данную информацию по запросу финансовой организации.</p>",
-    "_id": "5cffbce036bab0456e80bd79",
-    "_parentId": "5cffbce036bab0456e80bd35",
+    "body": "",
+    "_id": "5d00111136bab0456e80be15",
+    "_parentId": "5d00110336bab0456e80be14",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -45,666 +75,12 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": ""
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd91",
-    "_parentId": "5cffbce036bab0456e80bd4c",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
     "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Previous",
-        "ariaLabel": "Previous Page",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd92",
-    "_parentId": "5cffbce036bab0456e80bd4d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Назад",
-        "ariaLabel": "Назад",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd94",
-    "_parentId": "5cffbce036bab0456e80bd4f",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Назад",
-        "ariaLabel": "Назад",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd95",
-    "_parentId": "5cffbce036bab0456e80bd50",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Назад",
-        "ariaLabel": "Назад",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd96",
-    "_parentId": "5cffbce036bab0456e80bd51",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Назад",
-        "ariaLabel": "Назад",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "footer",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Навигация",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5cffbce036bab0456e80bd97",
-    "_parentId": "5cffbce036bab0456e80bd52",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Назад",
-        "ariaLabel": "Назад",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Go to main menu",
-        "ariaLabel": "Go to main menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "На главную",
-        "ariaLabel": "На главную",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
+      "small": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
+      "attribution": ""
     }
   },
   {
@@ -866,6 +242,231 @@
     "_shouldCollapseItems": true
   },
   {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd91",
+    "_parentId": "5cffbce036bab0456e80bd4c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00120c36bab0456e80be1e",
+    "_parentId": "5d0011ff36bab0456e80be1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
+      "small": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Документы",
+    "displayTitle": "",
+    "body": "<p><strong>Стандарт по автоматическому обмену информацией</strong> (Common Reporting Standard, CRS), разработанный ОЭСР (Организацией экономического сотрудничества и развития) – это международный аналог <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> в целях предотвращения глобального уклонения от уплаты налогов с использованием офшорных юрисдикций и обеспечения прозрачности информации.<br /><br />12 мая 2016 года ФНС России от имени Российской Федерации подписала многостороннее <a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/finans/russia_mcaa.pdf\" target=\"_blank\">Соглашение компетентных органов об автоматическом обмене финансовой информацией</a> и подтвердила намерение начать в 2018 году обмен информацией за 2017 год.<br /><br />Налоговый кодекс Российской Федерации дополнен положениями (<a href=\"https://www.nalog.ru/html/sites/www.new.nalog.ru/docs/documents/340fz.docx\" target=\"_blank\">Федеральный закон от 27.11.2017 № 340-ФЗ</a>), согласно которым российские организации финансового рынка (далее –&nbsp;<a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#OFR\">ОФР</a>) обязаны идентифицировать клиентов, являющихся налоговыми резидентами иностранных государств (территорий), и представлять данные о таких клиентах и их счетах в ФНС России, а клиенты, в свою очередь, обязаны предоставлять данную информацию по запросу финансовой организации.</p>",
+    "_id": "5cffbce036bab0456e80bd79",
+    "_parentId": "5cffbce036bab0456e80bd35",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00177f36bab0456e80be23",
+    "_parentId": "5d00177036bab0456e80be22",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
+      "small": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Обмен информацией",
+    "displayTitle": "Обмен информацией",
+    "body": "",
+    "_id": "5d0017d436bab0456e80be28",
+    "_parentId": "5d0017c836bab0456e80be27",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
+      "small": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -947,6 +548,147 @@
     "_shouldCollapseItems": true
   },
   {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd92",
+    "_parentId": "5cffbce036bab0456e80bd4d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00184a36bab0456e80be2d",
+    "_parentId": "5d00183f36bab0456e80be2c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
+      "small": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -1014,6 +756,147 @@
     "_shouldCollapseItems": true
   },
   {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd94",
+    "_parentId": "5cffbce036bab0456e80bd4f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00188f36bab0456e80be32",
+    "_parentId": "5d00188436bab0456e80be31",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
+      "small": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -1069,6 +952,147 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd95",
+    "_parentId": "5cffbce036bab0456e80bd50",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d0018f336bab0456e80be37",
+    "_parentId": "5d0018e836bab0456e80be36",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
+      "small": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
+      "attribution": ""
+    }
   },
   {
     "_component": "accordion",
@@ -1128,6 +1152,147 @@
     "_shouldCollapseItems": true
   },
   {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd96",
+    "_parentId": "5cffbce036bab0456e80bd51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Картинка",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d00196236bab0456e80be3d",
+    "_parentId": "5d00193736bab0456e80be3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
+      "small": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -1151,6 +1316,117 @@
     },
     "instruction": ""
   },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cffbce036bab0456e80bd97",
+    "_parentId": "5cffbce036bab0456e80bd52",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
   {
     "_component": "mcq",
     "_classes": "",
@@ -1860,17 +2136,17 @@
     }
   },
   {
-    "_component": "graphic",
-    "_classes": "",
+    "_component": "bottomNavigation",
+    "_classes": "footer",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Картинка",
+    "title": "Навигация",
     "displayTitle": "",
     "body": "",
-    "_id": "5d00111136bab0456e80be15",
-    "_parentId": "5d00110336bab0456e80be14",
+    "_id": "5cffbce036bab0456e80bd98",
+    "_parentId": "5d000c1f36bab0456e80be11",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1879,254 +2155,94 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
-      "small": "course/ru/assets/b8fe9f3f52e6077003068a4ab254463febe5f581.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d0011be36bab0456e80be1a",
-    "_parentId": "5d0011b236bab0456e80be19",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
-      "small": "course/ru/assets/d7a29510e15a74972274258d00149297a6f740c8.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d00120c36bab0456e80be1e",
-    "_parentId": "5d0011ff36bab0456e80be1d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
-      "small": "course/ru/assets/db2095aaec43c8ae855042395254edc6442b1cba.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d00177f36bab0456e80be23",
-    "_parentId": "5d00177036bab0456e80be22",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
-      "small": "course/ru/assets/37c865b22b01aef0ed477fd18f43cd7d010f5421.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Обмен информацией",
-    "displayTitle": "Обмен информацией",
-    "body": "",
-    "_id": "5d0017d436bab0456e80be28",
-    "_parentId": "5d0017c836bab0456e80be27",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
-      "small": "course/ru/assets/bb29e470851dd04cc79f7942e8ae4dfe52e9d029.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d00184a36bab0456e80be2d",
-    "_parentId": "5d00183f36bab0456e80be2c",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
-      "small": "course/ru/assets/8b4acaced67a6e68c3602062ceecda6c41085f24.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d00188f36bab0456e80be32",
-    "_parentId": "5d00188436bab0456e80be31",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
-      "small": "course/ru/assets/dbc23c01870c3996f028427e855ddaaeafdcc5cb.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d0018f336bab0456e80be37",
-    "_parentId": "5d0018e836bab0456e80be36",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
-      "small": "course/ru/assets/c0fa2d36853c75c64e95de8059bf6bf0ed7820b3.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Картинка",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5d00196236bab0456e80be3d",
-    "_parentId": "5d00193736bab0456e80be3b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
-      "small": "course/ru/assets/57980b72cc38b5c869a78a0023f361c80ef21637.jpg",
-      "attribution": ""
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
     }
   }
 ]

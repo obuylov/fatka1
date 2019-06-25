@@ -56,48 +56,6 @@
       "_commitOnVisibilityChangeHidden": true
     }
   },
-  "_languagePicker": {
-    "_isEnabled": false,
-    "title": "Выбрать язык",
-    "displayTitle": "Выбор языка / Language Picker",
-    "body": "",
-    "_showOnCourseLoad": true,
-    "_languagePickerIconClass": "icon-language-2",
-    "_classes": "",
-    "_languages": [
-      {
-        "_language": "ru",
-        "_direction": "ltr",
-        "displayName": "Русский",
-        "warningTitle": "Выбор языка",
-        "warningMessage": "Подтвердите выбор",
-        "_buttons": {
-          "yes": "Да",
-          "no": "Нет"
-        }
-      },
-      {
-        "_language": "en",
-        "_direction": "ltr",
-        "displayName": "English",
-        "warningTitle": "Language Picker",
-        "warningMessage": "Confirm selection",
-        "_buttons": {
-          "yes": "Yes",
-          "no": "No"
-        }
-      }
-    ],
-    "_accessibility": {
-      "accessibilityToggleTextOn": "Turn accessibility on?",
-      "accessibilityToggleTextOff": "Turn accessibility off?",
-      "_accessibilityInstructions": {
-        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
-      }
-    }
-  },
   "_altxapi": {
     "_isEnabled": true,
     "_courseID": "https://sberbank.ru/introduction-to-compliance/",

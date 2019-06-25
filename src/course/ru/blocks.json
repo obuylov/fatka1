@@ -1,26 +1,6 @@
 [
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 1,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d0008f536bab0456e80be02",
-        "_parentId": "5d0008f536bab0456e80be01",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | 1",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -40,107 +20,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 3,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d0011ff36bab0456e80be1d",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 4,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d00183f36bab0456e80be2c",
-        "_parentId": "5cffbce036bab0456e80bd32",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 5,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d00188436bab0456e80be31",
-        "_parentId": "5cffbce036bab0456e80bd30",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 6,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d0018e836bab0456e80be36",
-        "_parentId": "5cffbce036bab0456e80bd31",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 7,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d00193736bab0456e80be3b",
-        "_parentId": "5cffbcdf36bab0456e80bd2a",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "New Block Title",
+        "title": "Ключевые определения и требования по FATCA | 2",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -160,222 +40,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 9,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd35",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block"
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 10,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd3f",
-        "_parentId": "5cffbce036bab0456e80bd30",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 11,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd47",
-        "_parentId": "5cffbce036bab0456e80bd31",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 12,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd48",
-        "_parentId": "5cffbcdf36bab0456e80bd2a",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 13,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd6f",
-        "_parentId": "5cffbce036bab0456e80bd32",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 14,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d0009e236bab0456e80be04",
-        "_parentId": "5d0008f536bab0456e80be01",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 15,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd4f",
-        "_parentId": "5cffbce036bab0456e80bd32",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 16,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd50",
-        "_parentId": "5cffbce036bab0456e80bd30",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 17,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd51",
-        "_parentId": "5cffbce036bab0456e80bd31",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 18,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd52",
-        "_parentId": "5cffbcdf36bab0456e80bd2a",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 19,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d000a3936bab0456e80be06",
-        "_parentId": "5d0008f536bab0456e80be01",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | 3",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -395,27 +60,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 21,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d00177036bab0456e80be22",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | 4",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -435,47 +80,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 23,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d000ab636bab0456e80be08",
-        "_parentId": "5d0008f536bab0456e80be01",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 24,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d0017c836bab0456e80be27",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | 5",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -495,47 +100,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 26,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffc06636bab0456e80bdf7",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 27,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5d000b0a36bab0456e80be0a",
-        "_parentId": "5d0008f536bab0456e80be01",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | 6",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -555,7 +120,122 @@
         }
     },
     {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по FATCA | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 31,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd4c",
+        "_parentId": "footer-1",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 3,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d0011ff36bab0456e80be1d",
+        "_parentId": "5cffbcdf36bab0456e80bd26",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 9,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd35",
+        "_parentId": "5cffbcdf36bab0456e80bd26",
+        "_type": "block"
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 3",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 21,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d00177036bab0456e80be22",
+        "_parentId": "5cffbcdf36bab0456e80bd26",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 4",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 24,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d0017c836bab0456e80be27",
+        "_parentId": "5cffbcdf36bab0456e80bd26",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 5",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 26,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffc06636bab0456e80bdf7",
+        "_parentId": "5cffbcdf36bab0456e80bd26",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Ключевые определения и требования по CRS | 6",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -575,7 +255,367 @@
         }
     },
     {
-        "title": "Block title",
+        "title": "Ключевые определения и требования по CRS | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 32,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd4d",
+        "_parentId": "footer-2",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Нормативные документы в области FATCA и CRS | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 4,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d00183f36bab0456e80be2c",
+        "_parentId": "5cffbce036bab0456e80bd32",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Нормативные документы в области FATCA и CRS | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 13,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd6f",
+        "_parentId": "5cffbce036bab0456e80bd32",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Нормативные документы в области FATCA и CRS | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 15,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd4f",
+        "_parentId": "footer-3",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Документы, необходимые для идентификации налогового резидентства клиента | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 5,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d00188436bab0456e80be31",
+        "_parentId": "5cffbce036bab0456e80bd30",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Документы, необходимые для идентификации налогового резидентства клиента | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 10,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd3f",
+        "_parentId": "5cffbce036bab0456e80bd30",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Документы, необходимые для идентификации налогового резидентства клиента | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 16,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd50",
+        "_parentId": "footer-4",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Особенности идентификации клиентов Депозитария и ДГР | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 6,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d0018e836bab0456e80be36",
+        "_parentId": "5cffbce036bab0456e80bd31",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Особенности идентификации клиентов Депозитария и ДГР | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 11,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd47",
+        "_parentId": "5cffbce036bab0456e80bd31",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Особенности идентификации клиентов Депозитария и ДГР | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 17,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd51",
+        "_parentId": "footer-5",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Мониторинг сведений клиентов | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 7,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d00193736bab0456e80be3b",
+        "_parentId": "5cffbcdf36bab0456e80bd2a",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Мониторинг сведений клиентов | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 12,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd48",
+        "_parentId": "5cffbcdf36bab0456e80bd2a",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Мониторинг сведений клиентов | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 18,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5cffbce036bab0456e80bd52",
+        "_parentId": "footer-6",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 1,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d0008f536bab0456e80be02",
+        "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 14,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d0009e236bab0456e80be04",
+        "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 3",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 19,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d000a3936bab0456e80be06",
+        "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 4",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 23,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d000ab636bab0456e80be08",
+        "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 5",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 27,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d000b0a36bab0456e80be0a",
+        "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | 6",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -595,47 +635,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 31,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd4c",
-        "_parentId": "5cffbcdf36bab0456e80bd25",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 32,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "5cffbce036bab0456e80bd4d",
-        "_parentId": "5cffbcdf36bab0456e80bd26",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "Тестирование | 7",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -655,7 +655,7 @@
         }
     },
     {
-        "title": "Block title",
+        "title": "Тестирование | 8",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -667,6 +667,26 @@
         "_isVisible": true,
         "_id": "5d000c1f36bab0456e80be10",
         "_parentId": "5d0008f536bab0456e80be01",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Тестирование | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 35,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "5d000c1f36bab0456e80be11",
+        "_parentId": "footer-7",
         "_type": "block",
         "_onScreen": {
             "_isEnabled": false,

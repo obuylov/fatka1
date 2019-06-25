@@ -1,6 +1,6 @@
 [
   {
-    "title": "New Article Title",
+    "title": "Ключевые определения и требования по FATCA | Теория",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -30,7 +30,37 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Ключевые определения и требования по FATCA | Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-1",
+    "_parentId": "5cffbcdf36bab0456e80bd1c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Ключевые определения и требования по CRS | Теория",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -60,17 +90,17 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Ключевые определения и требования по CRS | Подвал",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "footer",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cffbcdf36bab0456e80bd2a",
-    "_parentId": "5cffbcdf36bab0456e80bd21",
+    "_id": "footer-2",
+    "_parentId": "5cffbcdf36bab0456e80bd1d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -82,7 +112,7 @@
       "src": "",
       "mobileBannerHeight": 150,
       "bannerHeight": 300,
-      "backgroundSize": "cover",
+      "backgroundSize": "auto",
       "backgroundAttachement": "fixed",
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
@@ -90,7 +120,7 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Нормативные документы в области FATCA и CRS | Теория",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -120,17 +150,17 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Нормативные документы в области FATCA и CRS | Подвал",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "footer",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d0008f536bab0456e80be01",
-    "_parentId": "5d0008f536bab0456e80be00",
+    "_id": "footer-3",
+    "_parentId": "5cffbcdf36bab0456e80bd1e",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -150,7 +180,7 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Документы, необходимые для идентификации налогового резидентства клиента | Теория",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -180,10 +210,40 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Документы, необходимые для идентификации налогового резидентства клиента | Подвал",
     "displayTitle": "",
     "body": "",
-    "_classes": "same-height",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-4",
+    "_parentId": "5cffbcdf36bab0456e80bd1f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Особенности идентификации клиентов Депозитария и ДГР | Теория",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -191,6 +251,156 @@
     "_isVisible": true,
     "_id": "5cffbce036bab0456e80bd31",
     "_parentId": "5cffbcdf36bab0456e80bd20",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Особенности идентификации клиентов Депозитария и ДГР | Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-5",
+    "_parentId": "5cffbcdf36bab0456e80bd20",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Мониторинг сведений клиентов | Теория",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cffbcdf36bab0456e80bd2a",
+    "_parentId": "5cffbcdf36bab0456e80bd21",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Мониторинг сведений клиентов | Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-6",
+    "_parentId": "5cffbcdf36bab0456e80bd21",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Тестирование",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0008f536bab0456e80be01",
+    "_parentId": "5d0008f536bab0456e80be00",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_articleBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    }
+  },
+  {
+    "title": "Тестирование | Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-7",
+    "_parentId": "5d0008f536bab0456e80be00",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
