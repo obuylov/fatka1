@@ -2,7 +2,7 @@
   "name": "adapt-can-background",
   "repository": "",
   "homepage": "",
-  "framework": "^2.0.0",
+  "framework": ">2.0.0",
   "version": "1.0.0",
   "issues": "",
   "displayName": "Can Background",
