@@ -16,7 +16,7 @@
     position: relative;
     max-width: @device-width-large;
     margin: auto;
-    padding: 50px 20px 20px;
+    padding: 50px 20px;
 
     @media all and (max-width: (@device-width-large + 20px)) {
       padding: (@notify-padding-top / 2) 20px (@notify-padding-bottom / 2);
@@ -49,6 +49,10 @@
         padding-left: inherit;
         padding-right: 0px;
       }
+    }
+
+    .notify-popup-title-inner {
+      display: none;
     }
   }
 
@@ -140,7 +144,7 @@
     outline: none;
 
     .no-touch &:hover {
-      border-color: @notify-icon-color-hover;
+      border-color: @white;
 
       .notify-popup-icon-close {
         color: @primary-color;
@@ -244,4 +248,14 @@
 
 .notify-popup-body-inner {
   color: @black;
+  font-size: 18px;
+}
+
+
+.correct .notify-popup-inner .notify-popup-body-inner {
+  color: @light-blue;
+}
+
+.incorrect .notify-popup-inner .notify-popup-body-inner, .partially-correct .notify-popup-inner .notify-popup-body-inner{
+  color: @red;
 }
