@@ -16,17 +16,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -46,17 +35,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -76,17 +54,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "auto",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -106,17 +73,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "auto",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -136,17 +92,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -166,17 +111,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -196,17 +130,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -226,17 +149,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -256,17 +168,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -286,17 +187,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -316,17 +206,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -346,17 +225,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   },
   {
@@ -377,16 +245,32 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "test1",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 100,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": true,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": false
+      }
     }
   },
   {
@@ -406,17 +290,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_articleBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
     }
   }
 ]

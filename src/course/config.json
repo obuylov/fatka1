@@ -56,6 +56,10 @@
       "_commitOnVisibilityChangeHidden": true
     }
   },
+  "_devtools": {
+    "_isEnabled": true,
+    "_theme": "theme-dark"
+  },
   "_altxapi": {
     "_isEnabled": true,
     "_courseID": "https://sberbank.ru/introduction-to-compliance/",

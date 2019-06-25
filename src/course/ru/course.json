@@ -3,7 +3,7 @@
     "displayTitle": "FATCA и CRS. Депозитарий/ДГР ",
     "body": "<p><strong><strong>Добро пожаловать!</strong></strong></p><p><!-- T004 --></p><p>Рады приветствовать Вас на курсе <strong>«Идентификация налогового резидентства клиентов в рамках исполнения требований FATCA и CRS».</strong></p><p><!-- T004 --></p><p><strong><strong><strong>В рамках изучения курса Вы ознакомитесь:</strong></strong></strong></p><p><!-- t508 --></p><ul><li>C правилами идентификации налогового резидентства клиентов при открытии счетов / заключении договоров;</li><li>C основными требованиями законодательства FATCA и CRS;</li><li>C вариантами решений сложных вопросов при идентификации налогового резидентства.</li></ul><p><!-- T004 --></p><p><strong>Курс считается пройденным, если Вы:</strong><br />Ознакомились с материалами и успешно прошли тестирование.<br /><br /><strong>Желаем успеха в изучении курса!</strong></p>",
     "description": "",
-    "_latestTrackingId": 35,
+    "_latestTrackingId": 37,
     "_buttons": {
         "_submit": {
             "buttonText": "Submit",
@@ -30,7 +30,7 @@
         "disabledAriaLabel": "This button is disabled at the moment"
     },
     "_classes": "",
-    "_lockType": "",
+    "_lockType": "custom",
     "_id": "course",
     "_start": {
         "_isEnabled": false,
