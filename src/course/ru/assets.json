@@ -39,7 +39,7 @@
     "description": "6.jpg",
     "tags": []
   },
-  "1f79f798dba67649369f59ee7aaf0270ad347170.png": {
+  "1f79f798dba67649369f59ee7aaf0270ad347170.jpg": {
     "title": "Group 6.png",
     "description": "Group 6.png",
     "tags": []
@@ -87,6 +87,11 @@
   "57980b72cc38b5c869a78a0023f361c80ef21637.jpg": {
     "title": "Аннотация 2019-06-11 233503.jpg",
     "description": "1",
+    "tags": []
+  },
+  "test.jpg": {
+    "title": "test",
+    "description": "test",
     "tags": []
   }
 }
