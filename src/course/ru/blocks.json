@@ -515,6 +515,328 @@
         }
     },
     {
+        "title": "Кейсы | 1 | Ряд 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 49,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case1-block1",
+        "_parentId": "case-1",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "visible",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Далее",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | 1 | Ряд 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 50,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case1-block2",
+        "_parentId": "case-1",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "visible",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Далее",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | 1 | Вопрос",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 56,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case1-block3",
+        "_parentId": "case-1",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Продолжить",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | 2 | Ряд 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 51,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case2-block1",
+        "_parentId": "case-2",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "visible",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Далее",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | 2 | Ряд 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 52,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case2-block2",
+        "_parentId": "case-2",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "visible",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Далее",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | 2 | Вопрос",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 57,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case2-block3",
+        "_parentId": "case-2",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Продолжить",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Кейсы | Подвал",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "block-padding",
+        "_trackingId": 58,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "case-block-footer",
+        "_parentId": "footer-7",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_assessment": {
+            "_quizBankID": 1
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "visible",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Далее",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
         "title": "Тестирование | Введение",
         "displayTitle": "",
         "body": "",
@@ -983,7 +1305,7 @@
         "_isHidden": false,
         "_isVisible": true,
         "_id": "5d000c1f36bab0456e80be11",
-        "_parentId": "footer-7",
+        "_parentId": "footer-8",
         "_type": "block",
         "_onScreen": {
             "_isEnabled": false,

@@ -3,27 +3,27 @@
     "displayTitle": "FATCA и CRS. Депозитарий/ДГР ",
     "body": "<p><strong><strong>Добро пожаловать!</strong></strong></p><p><!-- T004 --></p><p>Рады приветствовать Вас на курсе <strong>«Идентификация налогового резидентства клиентов в рамках исполнения требований FATCA и CRS».</strong></p><p><!-- T004 --></p><p><strong><strong><strong>В рамках изучения курса Вы ознакомитесь:</strong></strong></strong></p><p><!-- t508 --></p><ul><li>C правилами идентификации налогового резидентства клиентов при открытии счетов / заключении договоров;</li><li>C основными требованиями законодательства FATCA и CRS;</li><li>C вариантами решений сложных вопросов при идентификации налогового резидентства.</li></ul><p><!-- T004 --></p><p><strong>Курс считается пройденным, если Вы:</strong><br />Ознакомились с материалами и успешно прошли тестирование.<br /><br /><strong>Желаем успеха в изучении курса!</strong></p>",
     "description": "",
-    "_latestTrackingId": 37,
+    "_latestTrackingId": 58,
     "_buttons": {
         "_submit": {
-            "buttonText": "Submit",
-            "ariaLabel": "Submit"
+            "buttonText": "Принять ответ",
+            "ariaLabel": "Принять ответ"
         },
         "_reset": {
-            "buttonText": "Reset",
-            "ariaLabel": "Reset"
+            "buttonText": "Скорректировать ответ",
+            "ariaLabel": "Скорректировать ответ"
         },
         "_showCorrectAnswer": {
-            "buttonText": "Show correct answer",
-            "ariaLabel": "Show correct answer"
+            "buttonText": "Показать правильный ответ",
+            "ariaLabel": "Показать правильный ответ"
         },
         "_hideCorrectAnswer": {
-            "buttonText": "Hide correct answer",
-            "ariaLabel": "Hide correct answer"
+            "buttonText": "Скрыть правильный ответ",
+            "ariaLabel": "Скрыть правильный ответ"
         },
         "_showFeedback": {
-            "buttonText": "Show feedback",
-            "ariaLabel": "Show feedback"
+            "buttonText": "Показать комментарий",
+            "ariaLabel": "Показать комментарий"
         },
         "remainingAttemptsText": "remaining attempts",
         "remainingAttemptText": "final attempt",
@@ -170,6 +170,12 @@
         },
         "browserPromptIfIncomplete": "",
         "browserPromptIfComplete": ""
+    },
+    "_toc": {
+        "_excludeContentObjects": []
+    },
+    "_canBackground": {
+        "_isActive": true
     },
     "_drawerPageNavigation": {
         "_isEnabled": true,

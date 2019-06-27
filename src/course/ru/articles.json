@@ -228,6 +228,63 @@
     }
   },
   {
+    "title": "Кейс | 1",
+    "displayTitle": "Кейс №1",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "case-1",
+    "_parentId": "case",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Кейс | 2",
+    "displayTitle": "Кейс №2",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "case-2",
+    "_parentId": "case",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Кейс | Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer-7",
+    "_parentId": "case",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
     "title": "Тестирование",
     "displayTitle": "",
     "body": "",
@@ -250,7 +307,7 @@
       "_id": "test1",
       "_attempts": -1,
       "_isPercentageBased": true,
-      "_scoreToPass": 100,
+      "_scoreToPass": 80,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
       "_suppressMarking": true,
@@ -283,7 +340,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "footer-7",
+    "_id": "footer-8",
     "_parentId": "5d0008f536bab0456e80be00",
     "_type": "article",
     "_onScreen": {

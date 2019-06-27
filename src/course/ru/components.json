@@ -162,7 +162,7 @@
         "_classes": ""
       },
       {
-        "title": "Свидетельство об утратегражданства США – Форма DS 4083",
+        "title": "Свидетельство об утрате гражданства США – Форма DS 4083",
         "body": "<p>Согласно установленной Бюро консульских дел Департамента США процедуре, лицо, намеревающееся отказаться от гражданства США добровольно, должно подать соответствующее заявление на отказ от гражданства США в Департамент США. По результатам рассмотрения заявления Департамент США выдает сертификат/свидетельство по форме DS-4083, подтверждающий факт утраты гражданства США.<br /><br />По общей административной процедуре добровольное лишение гражданства США, полученного по рождению, подтверждается официальной формой DS-4083.<br /><br />Форма DS-4083 запрашивается у клиента Банка в случае места его рождения в США, но отсутствия указания на налоговое резидентство или гражданство в США.</p>",
         "_graphic": {
           "alt": "",
@@ -1129,7 +1129,7 @@
         "_classes": ""
       },
       {
-        "title": "В случае отказа клиентовпредоставить информацию о налоговом резидентстве ",
+        "title": "В случае отказа клиентов предоставить информацию о налоговом резидентстве ",
         "body": "<ul><li>В случае отказа клиентов-физических лиц/юридических лиц/индивидуальных предпринимателей по операциям на финансовых рынках заполнить Анкету либо предоставить требуемую информацию и/или документы для его идентификации в целях FATCA и CRS Банк отказывает клиенту в заключении соответствующего договора путем передачи ему Уведомления по установленной Банком форме.</li><li>На втором экземпляре Уведомления клиент ставит отметку о получении и ознакомлении с Уведомлением.</li><li>В случае отказа клиента проставить отметку работник Депозитария/ДГР на втором экземпляре Уведомления фиксирует факт отказа клиента.</li><li>Уведомления (с отметкой клиента или работника Депозитария/ДГР) подлежат обособленному хранению по месту обращения клиента – для клиентов Депозитария, или хранению в соответствующем СЦ Архив – для клиентов ДГР.</li></ul>",
         "_graphic": {
           "alt": "",
@@ -1139,7 +1139,7 @@
         "_classes": ""
       },
       {
-        "title": "Действия работникаДепозитария/ДГР при получении полного комплекта документов",
+        "title": "Действия работника Депозитария/ДГР при получении полного комплекта документов",
         "body": "<ul><li>При получении всех требуемых документов для идентификации налогового резидентства клиента работник Депозитария/ДГР проверяет полноту предоставленных данных и корректность заполнения анкет FATCA/CRS (поля должны быть заполнены в соответствии с правилами заполнения).</li><li>Заполненные сведения клиент подтверждает своей подписью (Депозитарий/ДГР) или вводом ПИН-кода банковской карты или смс (ДГР).</li><li>В случае предоставления клиентом в Банк формы W9, работник Депозитария/ ДГР принимает бумажную версию, подписанную клиентом только вручную, также допускается принятие сканированной версии.</li><li>Свидетельства об отказе от гражданства в США дополнительного заверения со стороны клиента/сотрудника Банка не требует (принимается копия документа).</li><li>Работник Депозитария/ ДГР принимает пакет документов клиента, предоставленный в рамках заключения Договора, помещает его в досье клиента, который подлежит хранению в установленном в Банке порядке (для Депозитария)/ сканируется, скан-образы подгружаются в АС, упаковываются и передаются в СЦ «Архив», в котором подлежит хранению в установленном в Банке порядке(для ДГР).</li></ul>",
         "_graphic": {
           "alt": "",
@@ -1426,6 +1426,522 @@
       }
     }
   },
+
+
+
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Кейс №1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case1_1",
+    "_parentId": "case1-block1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/face1.png",
+      "small": "course/ru/assets/face1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case1_2",
+    "_parentId": "case1-block1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/case1_1.png",
+      "small": "course/ru/assets/case1_2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case1_3",
+    "_parentId": "case1-block2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/case2_1.png",
+      "small": "course/ru/assets/case2_2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case1_4",
+    "_parentId": "case1-block2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/face2.png",
+      "small": "course/ru/assets/face2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Вопрос",
+    "displayTitle": "",
+    "body": "<p>Верно ли поступил сотрудник Банка Антон?</p>",
+    "_id": "case1_5",
+    "_parentId": "case1-block3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Да",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Нет",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Упражнение",
+      "correct": "<p>Ваш ответ правильный!</p><p>Антон поступил верно. Сотрудник Банка не уполномочен консультировать клиента по вопросам заполнения Анкеты FATCA/CRS и налоговых форм США. Все вопросы клиент может адресовать своему налоговому консультанту.</p>",
+      "_incorrect": {
+        "final": "<p>Ваш ответ ошибочный!</p><p>Антон поступил верно. Сотрудник Банка не уполномочен консультировать клиента по вопросам заполнения Анкеты FATCA/CRS и налоговых форм США. Все вопросы клиент может адресовать своему налоговому консультанту.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Кейс №2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case2_1",
+    "_parentId": "case2-block1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/face1.png",
+      "small": "course/ru/assets/face1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case2_2",
+    "_parentId": "case2-block1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/case3_1.png",
+      "small": "course/ru/assets/case3_2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case2_3",
+    "_parentId": "case2-block2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/case4_1.png",
+      "small": "course/ru/assets/case4_2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case2_4",
+    "_parentId": "case2-block2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/face2.png",
+      "small": "course/ru/assets/face2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Вопрос",
+    "displayTitle": "",
+    "body": "<p>Верно ли ответил клиенту сотрудник Банка Антон?</p>",
+    "_id": "case2_5",
+    "_parentId": "case2-block3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Да",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Нет",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Упражнение",
+      "correct": "<p>Ваш ответ правильный!</p><p>Антон поступил верно. Открытие счета ДЕПО/заключение договора о предоставлении брокерских услуг без предоставления идентификационных сведений, в том числе по FATCA/CRS, не предусмотрено. Клиенту будет вручено Уведомление об отказе в открытии счета/договора.</p>",
+      "_incorrect": {
+        "final": "<p>Ваш ответ ошибочный!</p><p>Антон поступил верно. Открытие счета ДЕПО/заключение договора о предоставлении брокерских услуг без предоставления идентификационных сведений, в том числе по FATCA/CRS, не предусмотрено. Клиенту будет вручено Уведомление об отказе в открытии счета/договора.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "case-footer",
+    "_parentId": "case-block-footer",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+
 
   {
     "_component": "text",

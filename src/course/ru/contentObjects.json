@@ -5,7 +5,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "2 минуты",
     "_lockedBy": [],
     "_lockType": "",
@@ -41,7 +41,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "2 минуты",
     "_lockedBy": [
       "5cee3439a123007ffe192a60"
@@ -79,7 +79,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "3 минуты",
     "_lockedBy": [
       "5cee3519a123007ffe192a64"
@@ -117,7 +117,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "3 минуты",
     "_lockedBy": [
       "5cee354da123007ffe192a6a"
@@ -155,7 +155,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "4 минуты",
     "_lockedBy": [
       "5cee3562a123007ffe192a6d"
@@ -193,7 +193,7 @@
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Просмотр",
+    "linkText": "Изучить",
     "duration": "2 минуты",
     "_lockedBy": [
       "5cee3584a123007ffe192a70"
@@ -226,6 +226,44 @@
     }
   },
   {
+    "title": "Кейсы",
+    "displayTitle": "Кейсы",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Пройти",
+    "duration": "4 минуты",
+    "_lockedBy": [
+      "5cee3584a123007ffe192a70"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "case",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/case.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
     "title": "Тестирование",
     "displayTitle": "Тестирование",
     "body": "",
@@ -239,7 +277,8 @@
       "5cffbcdf36bab0456e80bd1e",
       "5cffbcdf36bab0456e80bd1f",
       "5cffbcdf36bab0456e80bd20",
-      "5cffbcdf36bab0456e80bd21"
+      "5cffbcdf36bab0456e80bd21",
+      "case"
     ],
     "_lockType": "",
     "_isOptional": false,
