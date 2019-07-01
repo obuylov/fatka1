@@ -10,10 +10,6 @@
   padding-top: 20px;
 }
 
-.toc-group-item .menu-level-2 {
-  font-size: 16px !important;
-}
-
 @media screen and (max-width: 450px) {
   a {
     word-break: break-all
@@ -102,6 +98,11 @@ p, ul li {
     word-break: break-word
   }
 
+  .drawer .drawer-item .drawer-item-title,
+  .glossary-item button {
+    font-size: 18px
+  }
+
   .accordion-component .accordion-item-title, .mcq-component .mcq-item-inner {
     padding-left: 40px;
   }
@@ -112,6 +113,26 @@ p, ul li {
 
   .mcq-component .mcq-item-state {
     left: 0;
+  }
+
+  .article:not(.footer):not(.footer-2) .article-inner {
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px
+  }
+
+  .full-article {
+    .article-inner {
+      margin: 0 !important;
+    }
+
+    .block-inner {
+      padding: 20px;
+    }
+  }
+
+  .photo {
+    padding: 20px !important
   }
 
 }
@@ -164,6 +185,62 @@ input:focus + label {
   }
 }
 
+.full-article {
+  .article-inner {
+    padding: 60px 0;
+    background-color: transparent;
+  }
+
+  .photo {
+    background-color: white !important;
+  }
+
+  .card-element {
+    background-color: white !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+
+    .block-inner {
+      padding: 0 0 20px 0;
+    }
+  }
+}
+
+.flag-img {
+  height: 25px;
+  margin-left: 20px;
+}
+
+.pho {
+  background-color: white !important;
+  padding: 40px 0;
+  box-shadow: 0 0 4px rgba(0,0,0,0.25);
+}
+
+.list-with-icons {
+  li {
+    padding: 5px 0;
+    list-style: none;
+    background: none;
+  }
+
+  .list-icon {
+    display: flex;
+    align-items: center;
+
+    .img-container {
+      height: 35px;
+      width: 35px;
+      display: flex;
+      justify-content: center;
+      margin-right: 20px;
+    }
+
+    img {
+      height: 35px;
+    }
+  }
+}
+
 .icon-home {
   display: inline-block;
 }
@@ -195,9 +272,6 @@ input:focus + label {
 .bottomnavigation-widget button:not([data-type='_close'])  {background-size:1.3em 1.3em;background-position:center center;background-repeat:no-repeat;width:1.3em;height:1.3em;}
 
 .bottomnavigation button:not([data-type='_close']) .text {display:none;}
-
-
-
 
 
 /*
