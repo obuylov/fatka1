@@ -6,7 +6,7 @@
     "_classes": "",
     "pageBody": "",
     "linkText": "Изучить",
-    "duration": "2 минуты",
+    "duration": "7 минут",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -42,7 +42,7 @@
     "_classes": "",
     "pageBody": "",
     "linkText": "Изучить",
-    "duration": "2 минуты",
+    "duration": "5 минут",
     "_lockedBy": [
       "5cee3439a123007ffe192a60"
     ],
@@ -80,7 +80,7 @@
     "_classes": "",
     "pageBody": "",
     "linkText": "Изучить",
-    "duration": "3 минуты",
+    "duration": "4 минуты",
     "_lockedBy": [
       "5cee3519a123007ffe192a64"
     ],
@@ -118,7 +118,7 @@
     "_classes": "",
     "pageBody": "",
     "linkText": "Изучить",
-    "duration": "3 минуты",
+    "duration": "4 минуты",
     "_lockedBy": [
       "5cee354da123007ffe192a6a"
     ],
@@ -232,7 +232,7 @@
     "_classes": "",
     "pageBody": "",
     "linkText": "Пройти",
-    "duration": "4 минуты",
+    "duration": "",
     "_lockedBy": [
       "5cee3584a123007ffe192a70"
     ],
