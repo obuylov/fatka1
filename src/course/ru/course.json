@@ -188,5 +188,8 @@
             "_applyToPage": false
         },
         "_backgroundLink": ""
+    },
+    "_tooltip": {
+        "_isEnabled": true
     }
 }

@@ -323,7 +323,7 @@
         "_randomisation": false
       },
       "_questions": {
-        "_resetType": "soft",
+        "_resetType": "hard",
         "_canShowFeedback": false,
         "_canShowMarking": true,
         "_canShowModelAnswer": false

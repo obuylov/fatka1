@@ -62,7 +62,7 @@
     "_isVisible": true,
     "title": "Требования FATCA",
     "displayTitle": "",
-    "body": "Согласно требованиям FATCA Банк обязан:</p><p><!-- t508 --></p><ul><li>проводить идентификацию новых и <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#sk\">существующих клиентов</a> в целях определения их FATCA статуса;</li><li>осуществлять ежегодный мониторинг актуальности FATCA статусов клиентов;</li><li>ежегодно осуществлять подготовку и направление отчетности в IRS по выявленным налогоплательщикам США и клиентам, отказавшимся предоставить информацию о своем налоговом резидентстве (предварительно отчетность в полном объеме направляется в ФНС России);</li><li>проходить Сертификацию перед IRS в отношении завершения требований FATCA.</li></ul>",
+    "body": "<p>Согласно требованиям FATCA Банк обязан:</p><p><ul><li>проводить идентификацию новых и <span data-title='Существующий клиент – владелец финансового (финансовых) счета (счетов), открытого (открытых) и действующего (действующих) в финансовом институте до 1 июля 2014 года (для физических лиц) или до 1 января 2015 года (для юридических лиц)' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>существующих клиентов</span> <span class='i'></span></span> в целях определения их FATCA статуса;</li><li>осуществлять ежегодный мониторинг актуальности FATCA статусов клиентов;</li><li>ежегодно осуществлять подготовку и направление отчетности в IRS по выявленным налогоплательщикам США и клиентам, отказавшимся предоставить информацию о своем налоговом резидентстве (предварительно отчетность в полном объеме направляется в ФНС России);</li><li>проходить Сертификацию перед IRS в отношении завершения требований FATCA.</li></ul></p>",
     "_id": "text1-1",
     "_parentId": "5cffbce036bab0456e80bd34",
     "_type": "component",
@@ -116,7 +116,7 @@
     "_isVisible": true,
     "title": "Меры воздействия при несоблюдении требований FATCA",
     "displayTitle": "",
-    "body": "<p><strong>Ненадлежащее внедрение или несоблюдение требований</strong> <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> может повлечь применение к Банку следующих мер воздействия:</p><p><!-- t508 --></p><p>1. Лишение Банка «положительного» FATCA-статуса, включая:</p><ul><li>отказ контрагентов, участвующих в реализации <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>, а также клиентов от дальнейшего сотрудничества с Банком;</li><li>финансовые потери в размере 30% от доходов, полученных Банком из источников в США;</li><li>репутационные риски.</li></ul><p>2. Дополнительные проверки и запросы со стороны IRS или национальных уполномоченных органов (в том числе, ФНС России) по вопросам <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>.</p><p>3. Наложение административного штрафа в размере <strong>от трехсот тысяч до пятисот тысяч рублей</strong> за ненаправление Банком в уполномоченные органы или направление с нарушением установленных порядка и сроков информации о лицах, на которое распространяется <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\" class='no-break'>FATCA</a>.</p>",
+    "body": "<p><strong>Ненадлежащее внедрение или несоблюдение требований</strong> <span data-title='Foreign Account Tax Compliance Act (закон США «О налогообложении иностранных счетов»)' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>FATCA</span> <span class='i'></span></span> может повлечь применение к Банку следующих мер воздействия:</p><p><!-- t508 --></p><p>1. Лишение Банка «положительного» FATCA-статуса, включая:</p><ul><li>отказ контрагентов, участвующих в реализации FATCA, а также клиентов от дальнейшего сотрудничества с Банком;</li><li>финансовые потери в размере 30% от доходов, полученных Банком из источников в США;</li><li>репутационные риски.</li></ul><p>2. Дополнительные проверки и запросы со стороны IRS или национальных уполномоченных органов (в том числе, ФНС России) по вопросам FATCA.</p><p>3. Наложение административного штрафа в размере <strong>от трехсот тысяч до пятисот тысяч рублей</strong> за ненаправление Банком в уполномоченные органы или направление с нарушением установленных порядка и сроков информации о лицах, на которое распространяется FATCA.</p>",
     "_id": "5cffbe2b36bab0456e80bdf2",
     "_parentId": "5cffbe1936bab0456e80bdf1",
     "_type": "component",
@@ -157,7 +157,7 @@
     "_items": [
       {
         "title": "FATCA-статус",
-        "body": "<p>Cтатус, присваиваемый Банком <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#k\">клиенту</a> (в Бэк-системах) в соответствии с предоставленной им информацией о его налоговом резидентстве согласно требованиям FATCA.</p>",
+        "body": "<p>Cтатус, присваиваемый Банком  <span data-title='Физическое лицо/юридическое лицо/индивидуальный предприниматель, в том числе лица, занимающиеся в установленном законодательством Российской Федерации порядке частной практикой (адвокаты, нотариусы)' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>клиенту</span> <span class='i'></span></span> (в Бэк-системах) в соответствии с предоставленной им информацией о его налоговом резидентстве согласно требованиям FATCA.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -227,7 +227,7 @@
     "_isVisible": true,
     "title": "Признаки принадлежности к налогоплательщикам США",
     "displayTitle": "",
-    "body": "<p><strong>Признаки принадлежности к налогоплательщикам США</strong> – признаки, выявление которых свидетельствует о возможной принадлежности клиента к налогоплательщикам США в соответствии с требованиями <a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a>.<br /><br /><a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/FS-000P-HST1908_fatcha_crs_d/content/sco1/index.html#FATCA\">FATCA</a> предусматривает следующие признаки принадлежности к налогоплательщикам США для физических и юридических лиц.</p>",
+    "body": "<p><strong>Признаки принадлежности к налогоплательщикам США</strong> – признаки, выявление которых свидетельствует о возможной принадлежности клиента к налогоплательщикам США в соответствии с требованиями FATCA.<br /><br />FATCA предусматривает следующие признаки принадлежности к налогоплательщикам США для физических и юридических лиц.</p>",
     "_id": "5cffbf6136bab0456e80bdf6",
     "_parentId": "5cffbf5136bab0456e80bdf5",
     "_type": "component",
@@ -2730,7 +2730,7 @@
     "_type": "component",
     "_classes": "",
     "_layout": "full",
-    "_resetType": "hard",
+    "_resetType": "inherit",
     "title": "Результаты",
     "displayTitle": "",
     "body": "",
@@ -2746,16 +2746,16 @@
       "feedback": "<p>Вами были допущены ошибки при прохождении тестирования. Изучите повторно темы, затрагиваемые в тестировании, и проверьте свои знания еще раз.</p>",
       "_routeToAssessment": true
     },
-    "_completionBody": "<p>Ваш результат: {{scoreAsPercent}}% из 100%.</p>{{{feedback}}}",
+    "_completionBody": "{{{feedback}}}",
     "_bands": [
       {
         "_score": 0,
-        "feedback": "<p>К сожалению, Вы не справились.</p>",
+        "feedback": "<p>Вы набрали {{scoreAsPercent}}%.</p>",
         "_allowRetry": true
       },
       {
         "_score": 80,
-        "feedback": "<p>Поздравляем!</p>",
+        "feedback": "<p>Поздравляем! Вы набрали {{scoreAsPercent}}%.</p><p>Тест пройден.</p>",
         "_allowRetry": false,
         "_classes": "high-score"
       }
