@@ -32,11 +32,15 @@
     "_level": "info",
     "_console": true
   },
+  "_devtools": {
+    "_isEnabled": false,
+    "_theme": "theme-dark"
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
       "_requireCourseCompleted": true,
-      "_requireAssessmentPassed": true,
+      "_requireAssessmentPassed": false,
       "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
       "_shouldRecordInteractions": true
@@ -55,10 +59,6 @@
       "_suppressErrors": false,
       "_commitOnVisibilityChangeHidden": true
     }
-  },
-  "_devtools": {
-    "_isEnabled": true,
-    "_theme": "theme-dark"
   },
   "_altxapi": {
     "_isEnabled": true,
